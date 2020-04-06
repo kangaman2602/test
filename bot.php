@@ -1,6 +1,6 @@
 <?php
 /*   __________________________________________________
-    |  Obfuscated by Makibee - Php Obfuscator  2.0.1   |
+    |  Obfuscated by Kang Aman - Php Obfuscator  2.0.1   |
     |              on 2020-03-30 17:15:38              |
     |__________________________________________________|
 */
